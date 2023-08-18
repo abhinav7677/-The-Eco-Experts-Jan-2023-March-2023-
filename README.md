@@ -1,8 +1,8 @@
-<h1>BeEco</h1>
+<h1>The Eco Experts</h1>
 
 https://user-images.githubusercontent.com/92215187/193055074-96a8cf92-7021-49a1-a542-45f2cb690ea2.mp4
 
-<h3>“BeEco” is a software based on the idea of preventing the waste of potentially useful recyclable
+<h3>“The Eco Experts” is a software based on the idea of preventing the waste of potentially useful recyclable
 materials by helping to keep them out of landfills and incinerators. It is a web-based platform
 which helps users to identify recyclable waste and they can find the recycling points.</h3>
 
